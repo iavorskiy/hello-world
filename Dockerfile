@@ -1,4 +1,4 @@
-# a a node base image
+#  a node base image
 FROM node:7-onbuild
 
 
